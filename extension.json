@@ -1,0 +1,25 @@
+{
+  "identifier": {
+    "id": "inferrinizzard.prettier-sql-vscode",
+    "uuid": "386997b1-f715-42f5-91e4-618a439c19b8"
+  },
+  "version": "1.6.0",
+  "location": {
+    "$mid": 1,
+    "path": "/c:/Users/User/.vscode/extensions/inferrinizzard.prettier-sql-vscode-1.6.0",
+    "scheme": "file"
+  },
+  "relativeLocation": "inferrinizzard.prettier-sql-vscode-1.6.0",
+  "metadata": {
+    "installedTimestamp": 1727465412118,
+    "pinned": false,
+    "source": "gallery",
+    "id": "386997b1-f715-42f5-91e4-618a439c19b8",
+    "publisherId": "d7770145-2e17-4ef8-b7b4-686f2f8bee16",
+    "publisherDisplayName": "inferrinizzard",
+    "targetPlatform": "undefined",
+    "updated": false,
+    "isPreReleaseVersion": false,
+    "hasPreReleaseVersion": false
+  }
+}
